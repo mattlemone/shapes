@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5022f1c0-76ee-4ecb-a61e-fec71f660527" name="Changes" comment="Added point class">
-      <change afterPath="$PROJECT_DIR$/src/main/Line.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Rectangle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="5022f1c0-76ee-4ecb-a61e-fec71f660527" name="Changes" comment="Add Line, rectangle, and square classes">
+      <change afterPath="$PROJECT_DIR$/src/main/Circle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Ellipse.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Point.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Point.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719360674801</updated>
       <workItem from="1719360675812" duration="1524000" />
-      <workItem from="1719362386566" duration="1289000" />
+      <workItem from="1719362386566" duration="2008000" />
     </task>
     <task id="LOCAL-00001" summary="Added point class">
       <option name="closed" value="true" />
@@ -98,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719361991174</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Line, rectangle, and square classes">
+      <option name="closed" value="true" />
+      <created>1719364167766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719364167766</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added point class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added point class" />
+    <MESSAGE value="Add Line, rectangle, and square classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Line, rectangle, and square classes" />
   </component>
 </project>
