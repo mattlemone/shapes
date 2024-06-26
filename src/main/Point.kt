@@ -1,15 +1,14 @@
 
 class Point (
-    var x: double,
-    var y: double,
+    var x: Double,
+    var y: Double,
 ){
-    fun clone(){
+    fun clone(): Point {
+        return Point(x, y)
+    }
 
-    }
-    fun changex(x){
-        Point.x = x
-    }
-    fun changey(y){
-        Point.y = y
+    fun move(deltaX: Double, deltaY: Double) {
+        x += deltaX
+        y += deltaY
     }
 }
