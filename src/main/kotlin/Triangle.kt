@@ -8,11 +8,11 @@ class Triangle(
     }
 
     private fun areCollinear(p1: Point, p2: Point, p3: Point): Boolean {
-        return (p2.y() - p1.y()) * (p3.x() - p2.x()) == (p3.y() - p2.y()) * (p2.x() - p1.x())
+        return (p2.y - p1.y) * (p3.x - p2.x) == (p3.y - p2.y) * (p2.x - p1.x)
     }
 
     fun getArea(): Double {
-        return Math.abs(pointA.x() * (pointB.y() - pointC.y()) + pointB.x() * (pointC.y() - pointA.y()) + pointC.x() * (pointA.y() - pointB.y())) / 2.0
+        return Math.abs(pointA.x * (pointB.y - pointC.y) + pointB.x * (pointC.y - pointA.y) + pointC.x * (pointA.y - pointB.y)) / 2.0
     }
 
     fun move(deltaX: Double, deltaY: Double) {
