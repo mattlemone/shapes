@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5022f1c0-76ee-4ecb-a61e-fec71f660527" name="Changes" comment="Initialize Ellipse and Circle">
-      <change afterPath="$PROJECT_DIR$/src/main/Triangle.kt" afterDir="false" />
+    <list default="true" id="5022f1c0-76ee-4ecb-a61e-fec71f660527" name="Changes" comment="Add Circle functions and Triangle with functions">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Circle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Circle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Ellipse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Ellipse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Line.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Line.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Point.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Point.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Rectangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Rectangle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Square.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Square.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Triangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Triangle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +75,11 @@
     ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719360674801</updated>
       <workItem from="1719360675812" duration="1524000" />
-      <workItem from="1719362386566" duration="2526000" />
+      <workItem from="1719362386566" duration="5588000" />
     </task>
     <task id="LOCAL-00001" summary="Added point class">
       <option name="closed" value="true" />
@@ -110,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719364632638</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Circle functions and Triangle with functions">
+      <option name="closed" value="true" />
+      <created>1719365523181</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719365523181</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +141,7 @@
     <MESSAGE value="Added point class" />
     <MESSAGE value="Add Line, rectangle, and square classes" />
     <MESSAGE value="Initialize Ellipse and Circle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialize Ellipse and Circle" />
+    <MESSAGE value="Add Circle functions and Triangle with functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Circle functions and Triangle with functions" />
   </component>
 </project>

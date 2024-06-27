@@ -1,6 +1,6 @@
 class Square(
-    val topLeft: Point,
-    val sideLength: Double,
+    var topLeft: Point,
+    var sideLength: Double,
 ) {
     fun getArea(): Double {
         return sideLength * sideLength

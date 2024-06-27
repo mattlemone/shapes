@@ -1,7 +1,7 @@
 class Ellipse(
-    val center: Point,
-    val radiusX: Double,
-    val radiusY: Double,
+    var center: Point,
+    var radiusX: Double,
+    var radiusY: Double,
 ) {
     init {
         require(radiusX > 0 && radiusY > 0) { "Ellipse radii must be positive" }

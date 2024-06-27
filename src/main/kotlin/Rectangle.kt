@@ -1,6 +1,6 @@
 class Rectangle(
-    val topLeft: Point,
-    val bottomRight: Point,
+    var topLeft: Point,
+    var bottomRight: Point,
 ) {
     init {
         require(topLeft.x() != bottomRight.x() && topLeft.y() != bottomRight.y()) { "Rectangle cannot have 0 width or height" }

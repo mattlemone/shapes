@@ -1,6 +1,6 @@
 class Circle(
-    val center: Point,
-    val radius: Double,
+    var center: Point,
+    var radius: Double,
 ) {
     init {
         require(radius > 0) { "Circle radius must be positive" }
