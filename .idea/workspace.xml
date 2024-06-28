@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5022f1c0-76ee-4ecb-a61e-fec71f660527" name="Changes" comment="Created rectangle tests, testing all pieces of rectangle" />
+    <list default="true" id="5022f1c0-76ee-4ecb-a61e-fec71f660527" name="Changes" comment="Created square tests, testing all pieces of square" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +53,7 @@
     "Gradle.LineTest.executor": "Run",
     "Gradle.PointTest.executor": "Run",
     "Gradle.RectangleTest.executor": "Run",
+    "Gradle.SquareTest.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -92,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719360674801</updated>
       <workItem from="1719360675812" duration="1524000" />
-      <workItem from="1719362386566" duration="9682000" />
+      <workItem from="1719362386566" duration="9996000" />
     </task>
     <task id="LOCAL-00001" summary="Added point class">
       <option name="closed" value="true" />
@@ -182,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719541040672</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Created square tests, testing all pieces of square">
+      <option name="closed" value="true" />
+      <created>1719541477797</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719541477797</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +209,7 @@
     <MESSAGE value="Created point tests, testing all pieces of point" />
     <MESSAGE value="Created line tests, testing all pieces of line" />
     <MESSAGE value="Created rectangle tests, testing all pieces of rectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created rectangle tests, testing all pieces of rectangle" />
+    <MESSAGE value="Created square tests, testing all pieces of square" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created square tests, testing all pieces of square" />
   </component>
 </project>
