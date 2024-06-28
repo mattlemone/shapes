@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5022f1c0-76ee-4ecb-a61e-fec71f660527" name="Changes" comment="Created square tests, testing all pieces of square" />
+    <list default="true" id="5022f1c0-76ee-4ecb-a61e-fec71f660527" name="Changes" comment="Created ellipse tests, testing all pieces of ellipse" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +50,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Gradle.Build shapes.executor": "Run",
+    "Gradle.EllipseTest.executor": "Run",
     "Gradle.LineTest.executor": "Run",
     "Gradle.PointTest.executor": "Run",
     "Gradle.RectangleTest.executor": "Run",
@@ -93,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719360674801</updated>
       <workItem from="1719360675812" duration="1524000" />
-      <workItem from="1719362386566" duration="9996000" />
+      <workItem from="1719362386566" duration="10499000" />
     </task>
     <task id="LOCAL-00001" summary="Added point class">
       <option name="closed" value="true" />
@@ -191,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719541477797</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Created ellipse tests, testing all pieces of ellipse">
+      <option name="closed" value="true" />
+      <created>1719541706815</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719541706815</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +219,7 @@
     <MESSAGE value="Created line tests, testing all pieces of line" />
     <MESSAGE value="Created rectangle tests, testing all pieces of rectangle" />
     <MESSAGE value="Created square tests, testing all pieces of square" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created square tests, testing all pieces of square" />
+    <MESSAGE value="Created ellipse tests, testing all pieces of ellipse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created ellipse tests, testing all pieces of ellipse" />
   </component>
 </project>
