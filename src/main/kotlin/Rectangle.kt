@@ -1,3 +1,5 @@
+import kotlin.math.abs
+
 class Rectangle(
     var topLeft: Point,
     var bottomRight: Point,
@@ -7,7 +9,7 @@ class Rectangle(
     }
 
     fun getArea(): Double {
-        return (bottomRight.x - topLeft.x) * (bottomRight.y - topLeft.y)
+        return abs((bottomRight.x - topLeft.x) * (bottomRight.y - topLeft.y))
     }
 
     fun move(deltaX: Double, deltaY: Double) {
